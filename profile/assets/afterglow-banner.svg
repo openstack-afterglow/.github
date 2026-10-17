@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Afterglow — Open clouds. Shared possibilities.</title><desc id="desc">A warm sunset above a glowing horizon on a dark blue background.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10172c"/><stop offset="1" stop-color="#25213e"/></linearGradient><linearGradient id="sun" x2="0" y2="1"><stop stop-color="#ffd59d"/><stop offset="1" stop-color="#fa786e"/></linearGradient><linearGradient id="line"><stop stop-color="#ffbd88"/><stop offset="1" stop-color="#a697ff"/></linearGradient></defs>
+<rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+<circle cx="1040" cy="155" r="114" fill="#ff997b" opacity=".04"/><circle cx="1040" cy="155" r="90" fill="#ff997b" opacity=".06"/>
+<path d="M970 174a70 70 0 0 1 140 0Z" fill="url(#sun)"/>
+<path d="M902 184h276M946 200h188M978 216h124M1008 232h64" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+<text x="66" y="79" fill="#ffbd9c" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">OPENSTACK DASHBOARD &amp; SERVICES</text>
+<text x="62" y="164" fill="#fff5ee" font-family="Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Afterglow</text>
+<text x="66" y="217" fill="#e2dbea" font-family="Arial,sans-serif" font-size="27">Open clouds. Shared possibilities.</text>
+<text x="66" y="270" fill="#bcb7ce" font-family="Arial,sans-serif" font-size="17">Built in the open. Shaped by real cloud operations.</text>
+</svg>
