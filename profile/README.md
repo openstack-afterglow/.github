@@ -82,7 +82,7 @@ Afterglow changes are proposed through this organization's GitHub repositories. 
 
 **OpenStack Afterglow는 OpenStack 대시보드와 다양한 부가 서비스를 만들고 관리하는 오픈소스 조직입니다.** 중심 프로젝트인 **Afterglow**는 Horizon과 Skyline을 대체할 수 있는 현대적인 대시보드를 목표로 합니다.
 
-현재 **[cloud.dmslab.re.kr](https://cloud.dmslab.re.kr)**에서 DMS Cloud 콘솔로 운영 중이며, 실제 클라우드 운영과 연구 환경에서 얻은 경험을 바탕으로 개선하고 있습니다. 운영 서비스의 이용은 운영자의 계정·프로젝트 정책을 따릅니다.
+현재 [cloud.dmslab.re.kr](https://cloud.dmslab.re.kr)에서 DMS Cloud 콘솔로 운영 중이며, 실제 클라우드 운영과 연구 환경에서 얻은 경험을 바탕으로 개선하고 있습니다. 운영 서비스의 이용은 운영자의 계정·프로젝트 정책을 따릅니다.
 
 **함께 만드는 프로젝트**
 
@@ -101,7 +101,7 @@ Afterglow changes are proposed through this organization's GitHub repositories. 
 3. 저장소를 Fork하고 작은 단위로 수정한 뒤, 해당 저장소의 검사·테스트를 실행합니다.
 4. 변경 이유와 검증 결과를 담아 PR을 제출합니다. UI 변경에는 화면을, 버그 수정에는 재현 절차를 함께 남겨주세요.
 
-어디에 제안할지 고민된다면 **[Afterglow 이슈](https://github.com/openstack-afterglow/openstack-afterglow/issues/new)**에서 시작하세요. **한국어와 영어 모두 환영합니다.** 로그나 화면을 공유할 때는 인증정보와 사용자 데이터를 제거해주세요.
+어디에 제안할지 고민된다면 [Afterglow 이슈](https://github.com/openstack-afterglow/openstack-afterglow/issues/new)에서 시작하세요. **한국어와 영어 모두 환영합니다.** 로그나 화면을 공유할 때는 인증정보와 사용자 데이터를 제거해주세요.
 
 ### OpenStack 생태계에 기여하는 프로젝트로
 
